@@ -1,7 +1,5 @@
 # Image Restoration for Road Sign Recognition in Autonomous Driving
 
----
-
 ## 1. Project Overview
 
 ### Motivation
