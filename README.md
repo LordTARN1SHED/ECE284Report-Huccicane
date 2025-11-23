@@ -1,8 +1,5 @@
 # Image Restoration for Road Sign Recognition in Autonomous Driving
 
-**Course:** ECE 253 Fall 2025 (UCSD)  
-**Team Members:** Bingrui Zhang, Jialin Shang, Zhexi Feng
-
 ---
 
 ## 1. Project Overview
